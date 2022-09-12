@@ -12,7 +12,7 @@
 
 - 📫 Reach me via Emial, [Gmail Badge] vactum0@gmail.com
 
-⚡ Fun fact: I like VS Code and Gaming <3
+- ⚡ Fun fact: I like VS Code and Gaming <3
 
 <!---
 vactum0/vactum0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
