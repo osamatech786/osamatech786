@@ -68,14 +68,22 @@ src="https://img.shields.io/github/followers/osamatech786?logo=github&style=for-
 <!-- <a href="http://www.instagram.com/azkasaleem527/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  -->
 <a href="https://www.linkedin.com/in/osamatech786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/osamatech786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!-- ### Badges -->
-<b>My GitHub Stats</b><br>
+### Badges
+<!-- <b>My GitHub Stats</b><br> -->
 ![Osama's github stats](https://github-readme-stats.vercel.app/api?username=osamatech786&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-
 
 <a href="http://www.github.com/osamatech786"><img src="https://github-readme-streak-stats.herokuapp.com/?user=osamatech786&stroke=ffffff&background=1c1917&ring=B5FF33&fire=0891b2&currStreakNum=ffffff&currStreakLabel=B5FF33&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+
+<!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=osamatech786/osama_PJD) -->
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamatech786&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 <a href="http://www.github.com/osamatech786"><img src="https://activity-graph.herokuapp.com/graph?username=osamatech786&bg_color=1c1917&color=ffffff&line=E933FF&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=osamatech786) -->
 
 <!-- <b>Top Repositories</b>
 
