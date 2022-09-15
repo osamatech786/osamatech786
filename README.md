@@ -1,3 +1,4 @@
+<!-- By Osamatech786 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Welcome+to+my+space!;I'm+glad+to+see+you+here!&center=true&size=30&color=FFE333">
@@ -91,9 +92,11 @@ src="https://img.shields.io/github/followers/osamatech786?logo=github&style=for-
 "REPO_LINK" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=osamatech786&repo=nucleotide-count-webapp&title_color=FF339C&text_color=33F9FF&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 ⭐️ Created With Love <3 
+<!-- By Osamatech786 -->
 
 <!---
 vactum0/vactum0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- By Osamatech786 -->
