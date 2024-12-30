@@ -5,31 +5,28 @@
   </a>
 </h1>
 
-
-👋 It's Muhammad Osama Ahmed
+Hi there! 👋
 ============================
 
-Learning DataScience, ML, DL & DataAnalysis
+I'm Muhammad Osama Ahmed, a passionate professional specializing in AI Integration & Agents, Workflow Automation, and Python-Based Solutions.
 ---------------------------------------------------
 
-I had my Bachelors in Computer Science and  it developed my interest in Data science, Machine Learning and Deep Learning. I'm Learning new things daily and Aims to put bigger things through merging them all espcially by using Reinforcement Learning.
+Currently working 🔭 on 👀:
+🌱🧠👯⚡
 
-- 🌍  I'm based in Pakistan currently
-- 🔭 I’m currently working on Machine Learning
+- 🤖 AI Agent Development 
 
-- 👀 I’m interested in Data Science | Machine Learning | Deep Learning | Data Analysis roles
+- 💬 Call & Chatbot Solutions 
 
-- 🌱 I’m currently polishing Machine Learning
+- ⚙️ Workflow Automation with Python & Streamlit 
 
-- 🧠 I’m planning to learn Deep Learning
+- 🐍 API/Webhook Development & Integration 
 
-- 👯 I’m looking to collaborate on ML Projects
+- 🌍  I'm based in UK, London currently
 
 - 📫 Reach me via Emial, [osamatech786@gmail.com](mailto:osamatech786@gmail.com) 
 
 - 💞️ Fun fact: I like Gaming and planting
-
-- ⚡  You can follow me on my Socials to stay connected and enjoy my updates!
 
 <a href="https://www.linkedin.com/in/osamatech786" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
