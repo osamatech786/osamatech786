@@ -24,7 +24,7 @@ Currently working 🔭 on 👀:
 
 - 🌍  I'm based in UK, London currently
 
-- 📫 Reach me via Emial, [osamdatascientist@gmail.com](mailto:osamdatascientist@gmail.com) 
+- 📫 Reach me via Emial, [osamadatascientist@gmail.com](mailto:osamadatascientist@gmail.com) 
 
 - 💞️ Fun fact: I like Gaming and planting
 
