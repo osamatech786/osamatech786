@@ -246,23 +246,52 @@ osama = {
 
 ## 📊 GitHub Stats
 
+<!-- 🏅 Achievement Badges (shields.io — always works) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamatech786&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Engineer-Full%20Stack-bb2acf?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🎓%20MSc%20Data%20Science-Distinction-36BCF7?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/📍%20London-UK-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⚡%20Automation-10%2B%20hrs%2Fwk%20saved-00c896?style=for-the-badge&labelColor=0d1117" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝%20Followers-22K%2B%20LinkedIn-0077B5?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/☁️%20Google%20ADK-Vertex%20AI-4285F4?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔗%20RAG-Agentic%20AI-ff9500?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🐍%20Python-Expert-3776AB?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white" />
+</p>
+
+<!-- 🔥 Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamatech786&theme=radical&hide_border=true&stroke=36BCF7&ring=bb2acf&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+</p>
+
+<!-- 📊 Profile Summary Cards (5-panel) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamatech786&theme=radical" alt="Profile Details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamatech786&show_icons=true&theme=radical&hide_border=true&title_color=36BCF7&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamatech786&theme=radical" alt="Repos Per Language" width="32%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamatech786&layout=compact&theme=radical&hide_border=true&title_color=36BCF7&text_color=daf7dc&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osamatech786&theme=radical" alt="Most Commit Language" width="32%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osamatech786&theme=radical" alt="Stats" width="32%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamatech786&theme=radical&utcOffset=1" alt="Productive Time" width="49%" />
+</p>
+
+<!-- 📈 Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osamatech786&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
+<!-- 👁️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=osamatech786&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
+
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/osamatech786)
 
